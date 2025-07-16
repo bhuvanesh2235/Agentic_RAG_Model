@@ -1,0 +1,9 @@
+John Doe is a software engineer with 5 years of experience in Python, Django, and RESTful API development. He has worked extensively on backend systems, cloud integration, and scalable architectures.
+
+At TechNova Inc., he led a team that developed an automated billing system using Django and Celery, reducing invoice processing time by 40%. He is proficient in PostgreSQL and Docker.
+
+He has also contributed to machine learning projects involving customer churn prediction using scikit-learn and data pipelines with Apache Airflow.
+
+John holds a Bachelor’s degree in Computer Science from Stanford University. He regularly contributes to open-source projects and writes technical blogs on system design.
+
+His interests include cloud computing (AWS, GCP), microservices, and DevOps automation.
